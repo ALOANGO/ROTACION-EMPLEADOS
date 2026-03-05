@@ -79,7 +79,7 @@ Importancia de las variables del modelo de ML nos dà la respuesta del por que e
 > * [Notebook: Desarrollo del Modelo de Machine Learning (MODELO ML.ipynb)]
 ---
 
-## 5- Recomendaciones
+## 5- Recomendaciones y productivizaciòn 
 
 Se proporcionan insights y recomendaciones en las siguientes áreas clave:
 * **Perfil del Abandono:** Características demográficas y laborales comunes en empleados que renuncian.
@@ -96,7 +96,10 @@ Con base en los hallazgos del proyecto, se recomienda al equipo de **Gestión Hu
 ¿Cuanto dinero podríamos ahorrar fidelizando mejor a nuestros empleados?
 Habíamos visto que los representantes de ventas son el puesto que más se van. ¿Tendría sentido hacer un plan específico para ellos? ¿Cual sería el coste ahorrado si disminuimos la fuga un 30%?
 
-El modelo predictivo permitirà identificar estos perfiles con antelación para que el equipo de HR pueda intervenir.
+Se crea un producto de datos Dasboard modelo predictivo permitirà identificar estos perfiles con antelación para que el equipo de HR pueda intervenir.
+
+<img width="899" height="527" alt="image" src="https://github.com/user-attachments/assets/b893cd78-cd4a-49bd-b648-f4d8e7816a9c" />
+
 ---
 
 ## Supuestos y Consideraciones
