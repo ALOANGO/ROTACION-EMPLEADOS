@@ -8,7 +8,8 @@ En el contexto actual, la rotación de empleados genera altos costos de reclutam
 
 
 > **Recursos del Proyecto:**
-> * [Notebook: Análisis Exploratorio y Dashboard (EDA Y BI.ipynb)]
+> * [Notebook: Análisis Exploratorio y Dashboard (EDA Y BI.ipynb)](https://deepnote.com/workspace/training-454c-c4d00094-0817-4ff7-adc7-305ee39e3c92/project/ROTACION-DE-EMPLEADOS-4113bdf5-b362-4466-a3d1-dcc6840e50e8/notebook/EDA-Y-BI-87a324aa8843431a95f5febb57dda337?secondary-sidebar-autoopen=true&secondary-sidebar=agent
+)
 
 
 ---
@@ -57,7 +58,8 @@ Este problema nos ha costado en el ultimo año USD 2.719.005
 * Reducir un 30% la fuga de empleados nos ahorraría USD 815.701 cada año.
 
 > **Recursos del Proyecto:**
-> * [Notebook: Análisis Exploratorio y Dashboard (EDA Y BI.ipynb)]
+> * [Notebook: Análisis Exploratorio y Dashboard (EDA Y BI.ipynb)](https://deepnote.com/workspace/training-454c-c4d00094-0817-4ff7-adc7-305ee39e3c92/project/ROTACION-DE-EMPLEADOS-4113bdf5-b362-4466-a3d1-dcc6840e50e8/notebook/EDA-Y-BI-87a324aa8843431a95f5febb57dda337?secondary-sidebar-autoopen=true&secondary-sidebar=agent
+)
   
 ---
 
@@ -76,7 +78,7 @@ Importancia de las variables del modelo de ML nos dà la respuesta del por que e
 
 
 > **Recursos del Proyecto:**
-> * [Notebook: Desarrollo del Modelo de Machine Learning (MODELO ML.ipynb)]
+> * [Notebook: Desarrollo del Modelo de Machine Learning (MODELO ML.ipynb)](https://deepnote.com/workspace/training-454c-c4d00094-0817-4ff7-adc7-305ee39e3c92/project/ROTACION-DE-EMPLEADOS-4113bdf5-b362-4466-a3d1-dcc6840e50e8/notebook/MODELO-ML-b47ce17a78284852bfcba1d6e8526904?secondary-sidebar-autoopen=true&secondary-sidebar=agent)
 ---
 
 ## 5- Recomendaciones y productivizaciòn 
@@ -96,13 +98,8 @@ Con base en los hallazgos del proyecto, se recomienda al equipo de **Gestión Hu
 ¿Cuanto dinero podríamos ahorrar fidelizando mejor a nuestros empleados?
 Habíamos visto que los representantes de ventas son el puesto que más se van. ¿Tendría sentido hacer un plan específico para ellos? ¿Cual sería el coste ahorrado si disminuimos la fuga un 30%?
 
-Se crea un producto de datos Dasboard modelo predictivo permitirà identificar estos perfiles con antelación para que el equipo de HR pueda intervenir.
+Se crea un producto de datos Dasboard modelo predictivo permitirà identificar estos perfiles con antelación para que el equipo de HR pueda intervenir.[Link](https://public.tableau.com/app/profile/andres.johan.loango/viz/FUGADEEMPLEADOS_17001627733250/Dashboard1)
 
 <img width="899" height="527" alt="image" src="https://github.com/user-attachments/assets/b893cd78-cd4a-49bd-b648-f4d8e7816a9c" />
 
----
 
-## Supuestos y Consideraciones
-* **Costo de Rotación:** Se asumió un costo estimado por empleado para cuantificar el impacto económico del problema.
-* **Datos de Satisfacción:** Se asume que las encuestas de satisfacción son honestas y reflejan el sentir real del colaborador.
-* **Estacionariedad:** Los patrones de abandono identificados se consideran constantes durante el periodo del análisis.
